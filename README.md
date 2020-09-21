@@ -1,4 +1,4 @@
-# Playground Title Change by Jim and ChunChao again by Jim again, by Jiahui again, by Jim again
+# Play　ｅｒｒｏｒ　ｍｅｓｓａｇｅ　ｎｏ．２
 A place to play with `git`.
 
 
