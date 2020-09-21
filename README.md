@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Playground Title Change by Jim and ChunChao again by Jim again, by Jiahui again, by Jim again
 A place to play with `git`.
 
