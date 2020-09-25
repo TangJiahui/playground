@@ -1,4 +1,3 @@
-# Play　ｅｒｒｏｒ　ｍｅｓｓａｇｅ　ｎｏ．２
 A place to play with `git`.
 
 
